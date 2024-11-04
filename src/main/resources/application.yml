@@ -1,0 +1,14 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/chatdb
+
+openai:
+  api-key: # OpenAI API Key
+
+logging:
+  level:
+    dev.langchain4j: DEBUG
+
+daum:
+  api-key: # Daum API Key
