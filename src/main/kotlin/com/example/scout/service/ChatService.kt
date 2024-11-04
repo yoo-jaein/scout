@@ -1,8 +1,8 @@
 package com.example.scout.service
 
 import com.example.scout.config.Agent
-import com.example.scout.model.ChatRequest
-import com.example.scout.model.ChatResponse
+import com.example.scout.dto.ChatRequest
+import com.example.scout.dto.ChatResponse
 import com.example.scout.model.Conversation
 import com.example.scout.repository.ConversationRepository
 import kotlinx.coroutines.Dispatchers

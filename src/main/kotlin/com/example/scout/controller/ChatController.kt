@@ -1,7 +1,7 @@
 package com.example.scout.controller
 
-import com.example.scout.model.ChatRequest
-import com.example.scout.model.ChatResponse
+import com.example.scout.dto.ChatRequest
+import com.example.scout.dto.ChatResponse
 import com.example.scout.service.ChatService
 import org.springframework.web.bind.annotation.PostMapping
 import org.springframework.web.bind.annotation.RequestBody

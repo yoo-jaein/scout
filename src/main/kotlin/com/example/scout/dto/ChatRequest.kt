@@ -1,4 +1,4 @@
-package com.example.scout.model
+package com.example.scout.dto
 
 data class ChatRequest(
     val userMessage: String,
